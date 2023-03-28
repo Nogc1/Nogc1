@@ -1,14 +1,16 @@
-Hi I'am Nícolas!
+<h1>Hi! I'am Nícolas.<h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogc1)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogc1&count_private=true&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogc1)
 
-My Projects:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogc1&show_icons=true&theme=synthwave)
+
+<h2>My Projects:<h2>
 
 <a href="https://nogc1.github.io/Projeto-Social/">Redes Sociais</a> <br>
 <a href="https://nogc1.github.io/projeto-login/">Tela de login</a> <br>
 <a href="https://nogc1.github.io/projeto-cordel/">Cordel Moderno</a> <br>
 <a href="https://nogc1.github.io/projeto-android/" target="_blank" rel="noopener noreferrer">Android Curiosidades</a> 
 
-Games:
+<h2>Games:<h2>
+
 <a href="https://nogc1.github.io/mini-jogo-idle/" target="_blank" rel="noopener noreferrer">Idle game</a>
