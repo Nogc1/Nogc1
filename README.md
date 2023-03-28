@@ -1,7 +1,7 @@
 Hi I'am Nícolas!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogc1)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogc1&count_private=true&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogc1&count_private=true&show_icons=true&theme=dark)
 
 My Projects:
 
