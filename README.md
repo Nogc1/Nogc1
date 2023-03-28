@@ -9,7 +9,7 @@
 <a href="https://nogc1.github.io/Projeto-Social/">Redes Sociais</a> <br>
 <a href="https://nogc1.github.io/projeto-login/">Tela de login</a> <br>
 <a href="https://nogc1.github.io/projeto-cordel/">Cordel Moderno</a> <br>
-<a href="https://nogc1.github.io/projeto-android/" target="_blank" rel="noopener noreferrer">Android Curiosidades</a> 
+<a href="https://nogc1.github.io/projeto-android/">Android Curiosidades</a> 
 
 <h2>Games:<h2>
 
