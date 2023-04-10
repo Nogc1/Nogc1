@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-![Snake animation](https://github.com/Nogc1)
+![Snake animation](.github/workflows/main.yml)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogc1&show_icons=true&theme=synthwave)
 
